@@ -4,7 +4,7 @@
 
 El término __reproductibilidad__ (o _reproducibility_, en inglés) se refiere a la capacidad de reproducir un trabjo de investigación, de manera que sus resultados puedan ser obtenidos por otros al sequir la misma metodología. Usualmente, la reproductibilidad requiere que los datos y el código de programación utilizados en la investigación estén dispoibles para quienes deseen usarlos (Bezjak et al., 2018). Este concepto esta relacionado con el de __replicabilidad__ (o _replicability_, en inglés), el cual se refiere a la posibilidad de obteber resultados consistentes (no idénticos) al replicar un estudio con un conjunto distinto de datos, pero siguiendo el mismo diseño experimental. Estos conceptos son elementos centrales de la investigación empírica.
 
-###__Importancia de la reproductibilidad__
+### __Importancia de la reproductibilidad__
 
 ¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la década de 1990, un geofísico estadounidense llamado John Claerbaut realizó la siguiente afirmación:
 >"Al dia de hoy, pocos resultados son reproducibles en un sentido práctico. Verificarlos requiere de tanto esfuerzo como el que tomó crearlos. Después de un tiempo, incluso los autores son incapaces de reproducir sus propios resultados. Por esta razón, muchas personas ignoran la mayor parte de la literatura científica." (Claerbaut, 1992)
@@ -15,7 +15,7 @@ Con el fin de esta problematica, diferentes organizaciones, como el Comité Inte
 
 Figura 1. Resultados de la revisio sistemática de archivos de Excel suplementarios. Fuente: (Ziermann et al., 2016).
 
-##__Bibliografía__
+## __Bibliografía__
 
 Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). _Open Science Training Handbook_. Zenodo. <https://doi.org/10.5281/ZENODO.1212496>
 
