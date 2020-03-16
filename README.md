@@ -11,7 +11,7 @@ El término __reproductibilidad__ (o _reproducibility_, en inglés) se refiere a
 
 Con el fin de esta problematica, diferentes organizaciones, como el Comité Internacional de Publicaciones de Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos ([FDA](https://www.fda.gov/)), empezaron a publicar lineamientos para atecar los problemas derivados de una inadecuada documentación de los experimentos basados en ensayos aleatorios. De manera simultánea, se le dio más importanciaa la calidad de los datos utilizados en las investigaciones. Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 2016 que un 20% de los articulos con archivos de datos suplementarios publicados en revistas científicas contenían errores en los nombres de los genes, debido a los parámetros de configuración de Microsoft Excel (Ziemann et al., 2016).
 
-![](ZiemannEtAlFig1.png)
+![Figura 1. Resultados de la revisio sistemática de archivos de Excel suplementarios. Fuente: (Ziermann et al., 2016)](ZiemannEtAlFig1.png)
 
 Figura 1. Resultados de la revisio sistemática de archivos de Excel suplementarios. Fuente: (Ziermann et al., 2016).
 
